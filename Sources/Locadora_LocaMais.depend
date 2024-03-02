@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1700951819 source:c:\users\cauan\onedrive\Área de trabalho\trabalho interdisciplinar\locadora_locamais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Modulos.h"
+
+1700952909 c:\users\cauan\onedrive\Área de trabalho\trabalho interdisciplinar\locadora_locamais\modulos.h
+
+1700953867 source:c:\users\cauan\onedrive\Área de trabalho\trabalho interdisciplinar\locadora_locamais\modulos.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Modulos.h"
+
+1702254163 source:c:\users\cauan augusto\desktop\faculdade\aeds i\trabalho interdisciplinar\locadora_locamais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Modulos.h"
+	"Veiculo.h"
+	"Locacao.h"
+
+1702001524 c:\users\cauan augusto\desktop\faculdade\aeds i\trabalho interdisciplinar\locadora_locamais\modulos.h
+
+1702252381 source:c:\users\cauan augusto\desktop\faculdade\aeds i\trabalho interdisciplinar\locadora_locamais\modulos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Modulos.h"
+	"Locacao.h"
+
+1702255934 source:c:\users\cauan augusto\desktop\faculdade\aeds i\trabalho interdisciplinar\locadora_locamais\veiculo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Veiculo.h"
+	"Locacao.h"
+
+1702074496 c:\users\cauan augusto\desktop\faculdade\aeds i\trabalho interdisciplinar\locadora_locamais\veiculo.h
+
+1702251667 source:c:\users\cauan augusto\desktop\faculdade\aeds i\trabalho interdisciplinar\locadora_locamais\locacao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Modulos.h"
+	"Locacao.h"
+	"Veiculo.h"
+	"QuantidadeDiarias.h"
+
+1702074496 c:\users\cauan augusto\desktop\faculdade\aeds i\trabalho interdisciplinar\locadora_locamais\locacao.h
+
+1701817923 source:c:\users\cauan augusto\desktop\faculdade\aeds i\trabalho interdisciplinar\locadora_locamais\quantidadediarias.c
+	"QuantidadeDiarias.h"
+
+1701705425 c:\users\cauan augusto\desktop\faculdade\aeds i\trabalho interdisciplinar\locadora_locamais\quantidadediarias.h
+
+1702251668 source:c:\users\cauan augusto\desktop\locadora_locamais\locadora_locamais\locacao.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Modulos.h"
+	"Locacao.h"
+	"Veiculo.h"
+	"QuantidadeDiarias.h"
+
+1702001526 c:\users\cauan augusto\desktop\locadora_locamais\locadora_locamais\modulos.h
+
+1702074498 c:\users\cauan augusto\desktop\locadora_locamais\locadora_locamais\locacao.h
+
+1702074498 c:\users\cauan augusto\desktop\locadora_locamais\locadora_locamais\veiculo.h
+
+1701705426 c:\users\cauan augusto\desktop\locadora_locamais\locadora_locamais\quantidadediarias.h
+
+1702254164 source:c:\users\cauan augusto\desktop\locadora_locamais\locadora_locamais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Modulos.h"
+	"Veiculo.h"
+	"Locacao.h"
+
+1702252382 source:c:\users\cauan augusto\desktop\locadora_locamais\locadora_locamais\modulos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Modulos.h"
+	"Locacao.h"
+
+1701817924 source:c:\users\cauan augusto\desktop\locadora_locamais\locadora_locamais\quantidadediarias.c
+	"QuantidadeDiarias.h"
+
+1702255936 source:c:\users\cauan augusto\desktop\locadora_locamais\locadora_locamais\veiculo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Veiculo.h"
+	"Locacao.h"
+
